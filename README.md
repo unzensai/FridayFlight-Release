@@ -6,7 +6,7 @@ Rust製の、金星へ帰還するベクターワイヤーフレーム宇宙フ�
 ## 起動と配布
 
 - Windows x64: `FridayFlight-Windows-x64.exe` をダブルクリック。
-- Apple Silicon Mac: `Friday Flight.app` を起動。
+- Apple Silicon Mac: `FridayFlight.app` を起動。
 - OSごとに実行ファイルが異なります。Windows版はクロスコンパイル済み。
 - 公証はしていません。OSが初回起動の確認を表示する場合があります。
 
